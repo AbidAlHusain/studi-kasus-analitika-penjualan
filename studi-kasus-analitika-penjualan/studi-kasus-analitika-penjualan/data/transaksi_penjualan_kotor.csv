@@ -1,0 +1,124 @@
+id_transaksi,tanggal,produk,kategori,jumlah,harga_satuan,kota
+TRX0001,2026-06-13,Kopi,Minuman,1.0,12000.0,Curup
+TRX0002,2026-03-04,Teh,Minuman,3.0,8000.0,Bengkulu
+TRX0003,2026-06-23,Sabun,Kebutuhan Rumah,2.0,6000.0,Bengkulu
+TRX0004,2026-04-19,Kopi,Minuman,1.0,12000.0,Bengkulu
+TRX0005,2026-02-25,Teh,Minuman,1.0,8000.0,Bengkulu
+TRX0006,2026-02-20,Sabun,Kebutuhan Rumah,7.0,6000.0,Bengkulu 
+TRX0007,2026-04-25,Susu,Minuman,5.0,9000.0,Bengkulu
+TRX0008,2026-02-10,Sabun,Kebutuhan Rumah,7.0,6000.0,Curup
+TRX0009,2026-03-13,Teh,Minuman,4.0,8000.0,Curup
+TRX0010,2026-01-27,Kopi,Minuman,7.0,12000.0,Bengkulu
+TRX0011,2026-04-02,Roti,Makanan,5.0,10000.0,Bengkulu
+TRX0012,2026-04-28,Susu,Minuman,2.0,9000.0,Manna
+TRX0013,2026-01-21,Susu,Minuman,5.0,9000.0,Bengkulu
+TRX0014,2026-04-03,Susu,Minuman,4.0,9000.0,Bengkulu
+TRX0015,2026-01-12,Sabun,Kebutuhan Rumah,4.0,6000.0,Curup
+TRX0016,2026-01-21,Teh,Minuman,2.0,8000.0,Manna
+TRX0017,2026-03-13,Mie Instan,Makanan,,3500.0,Bengkulu 
+TRX0018,2026-04-05,Roti,Makanan,4.0,10000.0,Curup
+TRX0019,2026-06-29, sabun ,Kebutuhan Rumah,2.0,6000.0,Bengkulu
+TRX0020,2026-06-12,Teh,Minuman,4.0,8000.0,Bengkulu 
+TRX0021,2026-04-29,Mie Instan,Makanan,5.0,3500.0,Bengkulu
+TRX0022,2026-02-26,Sabun,Kebutuhan Rumah,6.0,6000.0,Bengkulu
+TRX0023,28/02/2026,Kopi,Minuman,6.0,12000.0,Manna
+TRX0024,2026-03-10,Kopi,Minuman,4.0,12000.0,Bengkulu
+TRX0025,2026-03-22,Teh,Minuman,8.0,8000.0,Manna
+TRX0026,2026-06-14,Mie Instan,Makanan,3.0,3500.0,Curup
+TRX0027,2026-02-05,Teh,Minuman,5.0,8000.0,Bengkulu
+TRX0028,2026-04-20,Susu,Minuman,7.0,9000.0,Curup
+TRX0029,2026-02-26,Teh,Minuman,8.0,,Bengkulu
+TRX0030,2026-01-13,Kopi,Minuman,3.0,12000.0,Bengkulu 
+TRX0031,2026-06-24,Mie Instan,,2.0,3500.0,Manna
+TRX0032,2026-04-08,Susu,Minuman,8.0,9000.0,Bengkulu
+TRX0033,2026-03-06,Susu,Minuman,1.0,9000.0,Bengkulu
+TRX0034,2026-06-24,Susu,Minuman,,9000.0,Curup
+TRX0035,2026-01-29,Roti,Makanan,7.0,10000.0,Bengkulu 
+TRX0036,2026-04-27,Kopi,Minuman,5.0,12000.0,Bengkulu
+TRX0037,2026-02-15,Susu,Minuman,2.0,9000.0,Curup
+TRX0038,2026-06-13, susu ,Minuman,4.0,9000.0,Bengkulu 
+TRX0039,2026-04-06,Teh,Minuman,1.0,8000.0,Bengkulu
+TRX0040,2026-03-24,Mie Instan,Makanan,1.0,3500.0,Bengkulu
+TRX0041,2026-04-03,Roti,Makanan,4.0,10000.0,Bengkulu
+TRX0042,2026-03-03,Susu,Minuman,2.0,9000.0,Bengkulu
+TRX0043,2026-05-05,Kopi,Minuman,3.0,12000.0,Bengkulu 
+TRX0044,2026-06-18,Mie Instan,Makanan,3.0,3500.0,Curup
+TRX0045,2026-05-16,Susu,Minuman,7.0,9000.0,Bengkulu 
+TRX0046,19/05/2026,Sabun,Kebutuhan Rumah,4.0,6000.0,Curup
+TRX0047,2026-04-13,Sabun,Kebutuhan Rumah,6.0,6000.0,Manna
+TRX0048,2026-05-13,Mie Instan,Makanan,2.0,3500.0,Bengkulu 
+TRX0049,2026-02-27,Kopi,Minuman,6.0,12000.0,Bengkulu
+TRX0050,2026-05-31,Susu,Minuman,4.0,9000.0,Bengkulu
+TRX0051,2026-02-26,Kopi,Minuman,,12000.0,Bengkulu
+TRX0052,2026-02-28,Kopi,Minuman,1.0,12000.0,Curup
+TRX0053,2026-01-19,Susu,Minuman,4.0,9000.0,Curup
+TRX0054,2026-06-21,Mie Instan,Makanan,4.0,3500.0,Bengkulu
+TRX0055,2026-02-03,Sabun,Kebutuhan Rumah,8.0,6000.0,Bengkulu 
+TRX0056,2026-05-02,Mie Instan,Makanan,4.0,3500.0,Bengkulu
+TRX0057,2026-01-25, sabun ,Kebutuhan Rumah,7.0,6000.0,Curup
+TRX0058,2026-04-19,Mie Instan,Makanan,8.0,,Bengkulu
+TRX0059,2026-06-22,Sabun,Kebutuhan Rumah,2.0,6000.0,Bengkulu
+TRX0060,2026-04-14,Sabun,Kebutuhan Rumah,6.0,6000.0,Bengkulu
+TRX0061,2026-03-05,Teh,Minuman,4.0,8000.0,Bengkulu
+TRX0062,2026-04-25,Teh,,7.0,8000.0,Bengkulu 
+TRX0063,2026-03-13,Mie Instan,Makanan,4.0,3500.0,Bengkulu
+TRX0064,2026-04-24,Susu,Minuman,2.0,9000.0,Bengkulu
+TRX0065,2026-06-16,Susu,Minuman,1.0,9000.0,Bengkulu
+TRX0066,2026-03-02,Teh,Minuman,7.0,8000.0,Manna
+TRX0067,2026-05-04,Teh,Minuman,7.0,8000.0,Bengkulu
+TRX0068,2026-02-12,Mie Instan,Makanan,,3500.0,Manna
+TRX0069,09/03/2026,Mie Instan,Makanan,5.0,3500.0,Manna
+TRX0070,2026-06-28,Sabun,Kebutuhan Rumah,8.0,6000.0,Bengkulu 
+TRX0071,2026-02-18,Roti,Makanan,4.0,10000.0,Bengkulu
+TRX0072,2026-05-29,Sabun,Kebutuhan Rumah,1.0,6000.0,Curup
+TRX0073,2026-01-15,Kopi,Minuman,8.0,12000.0,Bengkulu
+TRX0074,2026-05-16,Teh,Minuman,1.0,8000.0,
+TRX0075,2026-01-21,Teh,Minuman,2.0,8000.0,Bengkulu
+TRX0076,2026-01-18, sabun ,Kebutuhan Rumah,4.0,6000.0,Manna
+TRX0077,2026-01-31,Susu,Minuman,4.0,9000.0,Bengkulu
+TRX0078,2026-06-02,Kopi,Minuman,2.0,12000.0,Manna
+TRX0079,2026-06-18,Susu,Minuman,6.0,9000.0,Curup
+TRX0080,2026-02-22,Sabun,Kebutuhan Rumah,6.0,6000.0,Bengkulu 
+TRX0081,2026-03-09,Mie Instan,Makanan,3.0,3500.0,Curup
+TRX0082,2026-04-28,Roti,Makanan,2.0,10000.0,Bengkulu
+TRX0083,2026-04-28,Susu,Minuman,2.0,9000.0,Bengkulu
+TRX0084,2026-05-18,Teh,Minuman,5.0,8000.0,Bengkulu 
+TRX0085,2026-03-31,Kopi,Minuman,,12000.0,Curup
+TRX0086,2026-03-14,Teh,Minuman,8.0,8000.0,Bengkulu
+TRX0087,2026-06-30,Roti,Makanan,1.0,,Bengkulu
+TRX0088,2026-03-18,Sabun,Kebutuhan Rumah,2.0,6000.0,Bengkulu 
+TRX0089,2026-03-09,Kopi,Minuman,2.0,12000.0,Bengkulu
+TRX0090,2026-02-09,Roti,Makanan,5.0,10000.0,Bengkulu
+TRX0091,2026-02-23,Sabun,Kebutuhan Rumah,6.0,6000.0,Bengkulu 
+TRX0092,25/06/2026,Sabun,Kebutuhan Rumah,5.0,6000.0,Bengkulu
+TRX0093,2026-05-06,Roti,,1.0,10000.0,Bengkulu
+TRX0094,2026-06-12,Mie Instan,Makanan,5.0,3500.0,Bengkulu
+TRX0095,2026-01-01, roti ,Makanan,3.0,10000.0,Curup
+TRX0096,2026-02-11,Sabun,Kebutuhan Rumah,8.0,6000.0,Bengkulu
+TRX0097,2026-06-30,Mie Instan,Makanan,1.0,3500.0,Bengkulu
+TRX0098,2026-01-20,Sabun,Kebutuhan Rumah,3.0,6000.0,Bengkulu
+TRX0099,2026-01-10,Roti,Makanan,3.0,10000.0,Manna
+TRX0100,2026-02-02,Kopi,Minuman,5.0,12000.0,Curup
+TRX0101,2026-01-11,Roti,Makanan,4.0,10000.0,Bengkulu 
+TRX0102,2026-06-20,Kopi,Minuman,,12000.0,Bengkulu
+TRX0103,2026-04-15,Susu,Minuman,3.0,9000.0,Bengkulu 
+TRX0104,2026-02-11,Teh,Minuman,7.0,8000.0,Bengkulu
+TRX0105,2026-02-15,Sabun,Kebutuhan Rumah,6.0,6000.0,Manna
+TRX0106,2026-06-21,Sabun,Kebutuhan Rumah,4.0,6000.0,Curup
+TRX0107,2026-02-10,Sabun,Kebutuhan Rumah,2.0,6000.0,Manna
+TRX0108,2026-01-10,Mie Instan,Makanan,4.0,3500.0,Bengkulu 
+TRX0109,2026-04-28,Roti,Makanan,5.0,10000.0,Bengkulu 
+TRX0110,2026-02-27,Kopi,Minuman,4.0,12000.0,Manna
+TRX0111,2026-03-26,Roti,Makanan,2.0,10000.0,Curup
+TRX0112,2026-03-31,Sabun,Kebutuhan Rumah,7.0,6000.0,Bengkulu
+TRX0113,2026-03-26,Kopi,Minuman,2.0,12000.0,Curup
+TRX0114,2026-02-15, susu ,Minuman,5.0,9000.0,Bengkulu
+TRX0115,28/01/2026,Susu,Minuman,7.0,9000.0,Curup
+TRX0116,2026-03-22,Mie Instan,Makanan,2.0,,Manna
+TRX0117,2026-05-28,Teh,Minuman,5.0,8000.0,Bengkulu
+TRX0118,2026-04-22,Kopi,Minuman,4.0,12000.0,Curup
+TRX0119,2026-04-21,Kopi,Minuman,,12000.0,Bengkulu
+TRX0120,2026-03-22,Sabun,Kebutuhan Rumah,2.0,6000.0,Curup
+TRX0006,2026-02-20,Sabun,Kebutuhan Rumah,7.0,6000.0,Bengkulu 
+TRX0023,28/02/2026,Kopi,Minuman,6.0,12000.0,Manna
+TRX9999,tanggal tidak valid,Kopi,Minuman,-3.0,12000.0,Bengkulu
